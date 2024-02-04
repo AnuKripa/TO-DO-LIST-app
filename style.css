@@ -20,6 +20,12 @@ body {
     margin-bottom: 20px;
 }
 
+#heading{
+    font-style: italic;
+    text-align: center;
+    color:violet;
+}
+
 #taskInput {
     padding: 8px;
     width: 70%;
