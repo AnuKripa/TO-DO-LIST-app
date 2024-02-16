@@ -1,7 +1,7 @@
 # TO-DO-LIST-app
 A simple front end based application to collect the daily tasks temporarily.
 
-Demo https:https://drive.google.com/file/d/1hc412FFB1u61QNLWZBoa-fILUG_MH4A7/view?usp=drive_link
+Demo https://drive.google.com/file/d/1hc412FFB1u61QNLWZBoa-fILUG_MH4A7/view?usp=sharing
 
 This is built using HTML, CSS and Javascript.A simple project that is useful to keep in track of daily activities.
 
